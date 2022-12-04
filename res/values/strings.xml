@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Library management system</string>
+    <string name="conformation">图书馆</string>
+    <string name="sure_to_delete">yes or no</string>
+    <string name="yes">Y</string>
+    <string name="no">N</string>
+</resources>
